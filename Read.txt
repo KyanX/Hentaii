@@ -1,0 +1,75 @@
+Rekomendasi Threads 
+1-4 Biasanya Di Pakai Kalau Web Hard
+4-10 Biasanya Di Pakai Kalau Web Mayan Hard
+10-15 Biasanya Di Pakai Kalau Mau Show Dstat
+
+Rekomendasi Rate
+5-9 Sesuikan Dengan Thread 1-4 
+9-24 Sesuikan Dengan Thread 4-10
+24-64 Sesuikan Dengan Thread 10-15
+
+Proxy Scrape Type Python3 scrape.py
+
+Tambahkan Vps
+Download Apk Termuis
+Buka
+Pencet Tombol + Di Kiri Bawah
+Pilih Add New Host
+Masukan Alias/ Nama
+Masukan IP Address
+Masukan Username
+Masukan Password
+Dan Tekan Tanda Centang Kanan Atas
+Tekan Vps  
+Dan Selesai
+
+Cara Upload File Ke Vps/Server
+Download Aplikasi " MT MANAGER + " Kalau Tidak  Coba " FILE MANAGER + "
+Buka Aplikasinya
+Masuk Ke Kategori Remote
+Pilih Yang SFTP
+Masukan Username, Password, IP Anda
+Dan Selesai
+
+Cara Salin File 
+Buka Aplikasi MT Manager + Nya
+Masuk Ke Kategori Penyimpanan
+Dan Pilih File
+Dan Tahan Di File Itu + Pilih Gambar Salin Di Kiri Bawa
+Setelah Di Salin
+Keluar Dari Dan Kembali Ke Halaman Utama (Dalam Keadaan File Masi Di Salin)
+Masuk Ke Kategori Remote
+Masuk Ke IP Vps Kalian
+Masuk Ke Username VpS Kalian (Biasanya root)
+Dan Paste Di Situ File Yang Di Salin
+
+Ketikan Di Dalam VPs (Install Module Yang Di Perlukan)
+sudo apt install python3 -y
+sudo apt  install python2 -y
+sudo apt install python3-pip -y
+sudo apt install nodejs -y
+sudo apt install npm -y
+chmod +*
+npm i cluster
+npm i requests
+npm i https-proxy-agent
+npm i crypto-random-string
+npm i events
+npm i fs
+npm i net
+npm i set-cookie-parser
+npm i cloudscraper
+npm i request
+npm i hcaptcha-solver
+npm i randomstring
+npm i cluster
+npm i random-useragent
+npm i cloudflare-bypasser
+npm i axios
+npm i fake-useragent
+npm i user-agents
+npm i gradient-string
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+source ~/.bashrc
+nvm install 20
+nvm use 20
